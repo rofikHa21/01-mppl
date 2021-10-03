@@ -7,21 +7,21 @@ ada beberapa metode yang bisa digunakan untuk melakukan pengembangan perangkat l
 
 1. ### Model waterfall
     
-    ![waterfall](img/waterfall-2.png)
+    ![waterfall](img/waterfall-2.PNG)
 
     Model waterfall atau sering kali disebut sebagai classic life cycle adalah model pengembangan perangkat lunak yang menekankan fase-fase yang berurutan dan sistematis, dimulai dari spesifikasi kebutuhan konsumen (communication) dan berkembang melalui proses perencanaan (planning), pemodelan (modelling), pembangunan (construction), dan penyebaran (deployment), yang berujung pada dukungan terus menerus untuk sebuah perangkat lunak yang utuh. <br>
     Model ini dapat digunakan pada saat kebutuhan untuk sebuah masalah telah dipahami dengan baik, dan pekerjaan dapat mengalir secara linear dari proses komunikasi hingga penyebaran (deployment).
 
 2. ### Model Incremental
 
-    ![waterfall](img/incremental.png)
+    ![incremental](img/incremental.PNG)
 
     Model Incremental adalah metode pengembangan perangkat lunak di mana produk dirancang, diimplementasikan, dan diuji secara bertahap hingga produk selesai. Model ini menggabungkan elemen-elemen model waterfall dengan filosofi iteratif dari prototyping.
 
 
 3. ### Model Spiral
 
-    ![waterfall](img/spiral.png)
+    ![Spiral](img/spiral.PNG)
 
     model spiral adalah model proses perangkat lunak evolusioner yang menggabungkan sifat iteratif dari prototyping dengan aspek yang terkontrol dan sistematis dari waterfall
     model. Ini memberikan potensi untuk pengembangan yang semakin cepat banyak versi lengkap dari perangkat lunak.
@@ -32,7 +32,7 @@ ada beberapa metode yang bisa digunakan untuk melakukan pengembangan perangkat l
 
 1. ### XP atau Extreme Programming
 
-    ![Extreme Programming](img/XP.png)
+    ![Extreme Programming](img/XP.PNG)
 
     Extreme Programming menggunakan pendekatan berorientasi objek sebagai paradigma pengembangan yang disukai dan mencakup seperangkat _rules_ dan praktik yang
     terjadi dalam konteks empat kegiatan kerangka kerja: _planning_, _design_, _coding_, dan _testing_.
