@@ -14,7 +14,7 @@ ada beberapa metode yang bisa digunakan untuk melakukan pengembangan perangkat l
 
 2. ### Model Incremental
 
-    ![incremental](img/incremental.PNG)
+    ![incremental](img/Incremental.PNG)
 
     Model Incremental adalah metode pengembangan perangkat lunak di mana produk dirancang, diimplementasikan, dan diuji secara bertahap hingga produk selesai. Model ini menggabungkan elemen-elemen model waterfall dengan filosofi iteratif dari prototyping.
 
@@ -39,7 +39,7 @@ ada beberapa metode yang bisa digunakan untuk melakukan pengembangan perangkat l
 
 2. ### Metode Scrum
 
-    ![scrum](img/scrum.png)
+    ![scrum](img/Scrum.png)
 
     Metode Scrum merupakan metode pengembangan perangkat lunak turunan dari metode agile. Metode scrum merupakan suatu kerangka kerja yang menggunakan pendekatan iterative dan incremental seperti yang ada pada metode RAD. <br>
     Metode Scrum ini ditujukan untuk menghasilkan produk bernilai tinggi, unik, sekaligus produktif.
